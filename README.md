@@ -11,6 +11,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
+- [Others](#others)
 - [PHP](#php)
 - [Python](#python)
 - [SCSS](#scss)
@@ -30,6 +31,7 @@
 
 ## JavaScript 
 
+- [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [MarcBresson/Stock-Market-Anywhere](https://github.com/MarcBresson/Stock-Market-Anywhere) - Personnal project of a web app that reproduce the stock market on anything, with a price variation depending on the sale volume. This web app is entirely local, and requires no installation.
@@ -46,6 +48,10 @@
 ## Markdown 
 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+
+## Others 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## PHP 
 
