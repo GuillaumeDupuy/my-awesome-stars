@@ -73,6 +73,7 @@
 
 ## hacktoberfest 
 
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 
@@ -103,6 +104,7 @@
 
 ## others 
 
+- [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [JulioCodesSM/CodeSnippets](https://github.com/JulioCodesSM/CodeSnippets) - 
 - [krishnaik06/AQI-Project](https://github.com/krishnaik06/AQI-Project) - 
 - [giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019](https://github.com/giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019) - Python implementation of web scraping of full tweets from Tweet
