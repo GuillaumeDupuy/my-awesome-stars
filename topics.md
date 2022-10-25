@@ -7,6 +7,7 @@
 
 - [api](#api)
 - [awesome](#awesome)
+- [blockchain](#blockchain)
 - [cli](#cli)
 - [code](#code)
 - [data-analysis](#data-analysis)
@@ -20,6 +21,7 @@
 - [json](#json)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
+- [music](#music)
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [others](#others)
@@ -36,6 +38,10 @@
 ## awesome 
 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
+
+## blockchain 
+
+- [satwikkansal/python_blockchain_app](https://github.com/satwikkansal/python_blockchain_app) - A fully functional blockchain application implemented in Python from scratch (with tutorial).
 
 ## cli 
 
@@ -73,6 +79,7 @@
 
 ## hacktoberfest 
 
+- [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
@@ -94,6 +101,10 @@
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 
+## music 
+
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
+
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -104,6 +115,7 @@
 
 ## others 
 
+- [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [JulioCodesSM/CodeSnippets](https://github.com/JulioCodesSM/CodeSnippets) - 
 - [krishnaik06/AQI-Project](https://github.com/krishnaik06/AQI-Project) - 
@@ -118,6 +130,8 @@
 
 ## python 
 
+- [satwikkansal/python_blockchain_app](https://github.com/satwikkansal/python_blockchain_app) - A fully functional blockchain application implemented in Python from scratch (with tutorial).
+- [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [giuseppegambino/Scraping-TripAdvisor-with-Python-2020](https://github.com/giuseppegambino/Scraping-TripAdvisor-with-Python-2020) - Python implementation of web scraping of TripAdvisor with Selenium in a new 2019 website
