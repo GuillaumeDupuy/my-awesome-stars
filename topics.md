@@ -115,6 +115,7 @@
 
 ## others 
 
+- [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [aleen42/badges](https://github.com/aleen42/badges) - :flower_playing_cards: Standard and acceptable badges list
 - [JulioCodesSM/CodeSnippets](https://github.com/JulioCodesSM/CodeSnippets) - 
