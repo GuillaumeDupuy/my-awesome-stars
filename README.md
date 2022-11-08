@@ -23,7 +23,7 @@
 
 ## CSS 
 
-- [JulioCodesSM/CodeSnippets](https://github.com/JulioCodesSM/CodeSnippets) - 
+- [juliocodes-sm/Snippets](https://github.com/juliocodes-sm/Snippets) - 
 
 ## Go 
 
