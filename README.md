@@ -16,6 +16,7 @@
 - [Python](#python)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [TypeScript](#typescript)
 
 ## C 
 
@@ -80,6 +81,10 @@
 
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+
+## TypeScript 
+
+- [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 
 
 ## License
