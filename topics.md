@@ -20,6 +20,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [json](#json)
+- [languages](#languages)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [music](#music)
@@ -100,6 +101,10 @@
 
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool written in Python.
 
+## languages 
+
+- [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
+
 ## machine-learning 
 
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
@@ -161,6 +166,7 @@
 
 ## statistics 
 
+- [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 
