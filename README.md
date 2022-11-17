@@ -24,7 +24,7 @@
 
 ## CSS 
 
-- [juliocodes-sm/Snippets](https://github.com/juliocodes-sm/Snippets) - 
+- [juliocodes-sm/Reels](https://github.com/juliocodes-sm/Reels) - 
 
 ## Go 
 
