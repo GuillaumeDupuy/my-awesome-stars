@@ -56,6 +56,7 @@
 
 ## Python 
 
+- [Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer) - A sorting visualizer made in python with the help of DearPyGui
 - [satwikkansal/python_blockchain_app](https://github.com/satwikkansal/python_blockchain_app) - A fully functional blockchain application implemented in Python from scratch (with tutorial).
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
