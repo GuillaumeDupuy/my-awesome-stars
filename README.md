@@ -13,6 +13,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
@@ -48,6 +49,7 @@
 
 ## Others 
 
+- [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## PHP 
@@ -68,6 +70,10 @@
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool written in Python.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## Rust 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## SCSS 
 
