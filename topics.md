@@ -10,6 +10,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [blockchain](#blockchain)
+- [chatgpt](#chatgpt)
 - [cli](#cli)
 - [code](#code)
 - [data-analysis](#data-analysis)
@@ -60,6 +61,10 @@
 ## blockchain 
 
 - [satwikkansal/python_blockchain_app](https://github.com/satwikkansal/python_blockchain_app) - A fully functional blockchain application implemented in Python from scratch (with tutorial).
+
+## chatgpt 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## cli 
 
