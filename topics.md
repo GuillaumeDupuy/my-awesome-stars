@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ai](#ai)
 - [api](#api)
 - [automation](#automation)
 - [awesome](#awesome)
@@ -40,6 +41,10 @@
 - [software](#software)
 - [statistics](#statistics)
 - [windows](#windows)
+
+## ai 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## api 
 
