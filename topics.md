@@ -21,6 +21,7 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [json](#json)
@@ -37,6 +38,7 @@
 - [python](#python)
 - [python3](#python3)
 - [rust](#rust)
+- [security](#security)
 - [serverless](#serverless)
 - [software](#software)
 - [statistics](#statistics)
@@ -112,8 +114,13 @@
 
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 
+## hacking 
+
+- [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
+
 ## hacktoberfest 
 
+- [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -183,6 +190,7 @@
 
 ## python 
 
+- [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
 - [satwikkansal/python_blockchain_app](https://github.com/satwikkansal/python_blockchain_app) - A fully functional blockchain application implemented in Python from scratch (with tutorial).
 - [kmille/deezer-downloader](https://github.com/kmille/deezer-downloader) - Download music from Deezer with a nice front end
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
@@ -199,6 +207,10 @@
 ## rust 
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+## security 
+
+- [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
 
 ## serverless 
 
