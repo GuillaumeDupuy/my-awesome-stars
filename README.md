@@ -7,6 +7,7 @@
 
 - [C](#c)
 - [Go](#go)
+- [Inno Setup](#inno-setup)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
@@ -25,6 +26,10 @@
 ## Go 
 
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
+
+## Inno Setup 
+
+- [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 
 ## JavaScript 
 
@@ -57,6 +62,7 @@
 
 ## PHP 
 
+- [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [Gonzal-M/ExamenFrameworkPHP](https://github.com/Gonzal-M/ExamenFrameworkPHP) - Examen Framework PHP - Gonzalez Marie & Dupuy Guillaume - B2A Informatique
 
 ## Python 
