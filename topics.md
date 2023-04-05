@@ -188,6 +188,7 @@
 
 ## others 
 
+- [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 - [asciimoo/drawille](https://github.com/asciimoo/drawille) - Pixel graphics in terminal with unicode braille characters
@@ -220,6 +221,7 @@
 
 ## reverse-engineering 
 
+- [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## rust 
@@ -248,6 +250,7 @@
 
 ## windows 
 
+- [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 
