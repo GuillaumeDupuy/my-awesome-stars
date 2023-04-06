@@ -98,6 +98,7 @@
 
 ## TypeScript 
 
+- [42Atomys/stud42](https://github.com/42Atomys/stud42) - Stud42 official repository since major 3 update (https://s42.app)
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 
 
