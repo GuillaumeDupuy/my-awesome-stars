@@ -22,10 +22,12 @@
 - [github-api](#github-api)
 - [go](#go)
 - [golang](#golang)
+- [graphql](#graphql)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [json](#json)
+- [kubernetes](#kubernetes)
 - [languages](#languages)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -33,6 +35,7 @@
 - [markdown](#markdown)
 - [music](#music)
 - [neural-network](#neural-network)
+- [nextjs](#nextjs)
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [others](#others)
@@ -44,6 +47,7 @@
 - [serverless](#serverless)
 - [software](#software)
 - [statistics](#statistics)
+- [typescript](#typescript)
 - [windows](#windows)
 
 ## ai 
@@ -120,7 +124,12 @@
 
 ## golang 
 
+- [42Atomys/stud42](https://github.com/42Atomys/stud42) - Stud42 official repository since major 3 update (https://s42.app)
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
+
+## graphql 
+
+- [42Atomys/stud42](https://github.com/42Atomys/stud42) - Stud42 official repository since major 3 update (https://s42.app)
 
 ## hacking 
 
@@ -147,6 +156,10 @@
 ## json 
 
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool written in Python.
+
+## kubernetes 
+
+- [42Atomys/stud42](https://github.com/42Atomys/stud42) - Stud42 official repository since major 3 update (https://s42.app)
 
 ## languages 
 
@@ -177,6 +190,10 @@
 ## neural-network 
 
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+
+## nextjs 
+
+- [42Atomys/stud42](https://github.com/42Atomys/stud42) - Stud42 official repository since major 3 update (https://s42.app)
 
 ## open-source 
 
@@ -247,6 +264,10 @@
 
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
+
+## typescript 
+
+- [42Atomys/stud42](https://github.com/42Atomys/stud42) - Stud42 official repository since major 3 update (https://s42.app)
 
 ## windows 
 
