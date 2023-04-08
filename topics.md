@@ -18,6 +18,7 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [deep-learning](#deep-learning)
+- [education](#education)
 - [github](#github)
 - [github-api](#github-api)
 - [go](#go)
@@ -44,6 +45,7 @@
 - [serverless](#serverless)
 - [software](#software)
 - [statistics](#statistics)
+- [terminal](#terminal)
 - [windows](#windows)
 
 ## ai 
@@ -103,6 +105,10 @@
 
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 
+## education 
+
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+
 ## github 
 
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -141,6 +147,7 @@
 
 ## javascript 
 
+- [sasadjolic/dom-terminal](https://github.com/sasadjolic/dom-terminal) - Command-line terminal that runs in a web browser
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Ephenia/Pokeclicker-Scripts](https://github.com/Ephenia/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
 
@@ -247,6 +254,10 @@
 
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
+
+## terminal 
+
+- [sasadjolic/dom-terminal](https://github.com/sasadjolic/dom-terminal) - Command-line terminal that runs in a web browser
 
 ## windows 
 
