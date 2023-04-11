@@ -5,8 +5,11 @@
 
 ## Contents
 
+- [Astro](#astro)
 - [C](#c)
+- [C++](#c++)
 - [Go](#go)
+- [HTML](#html)
 - [Inno Setup](#inno-setup)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -19,13 +22,25 @@
 - [Shell](#shell)
 - [TypeScript](#typescript)
 
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
 ## C 
 
 - [Llelepipede/projet_C](https://github.com/Llelepipede/projet_C) - 
 
+## C++ 
+
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
 ## Go 
 
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
+
+## HTML 
+
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 
 ## Inno Setup 
 
