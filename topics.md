@@ -15,9 +15,12 @@
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [code](#code)
+- [compiler](#compiler)
+- [cpp](#cpp)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [deep-learning](#deep-learning)
+- [django](#django)
 - [education](#education)
 - [github](#github)
 - [github-api](#github-api)
@@ -27,6 +30,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [javascript](#javascript)
 - [json](#json)
+- [language](#language)
 - [languages](#languages)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
@@ -66,6 +70,7 @@
 
 ## awesome 
 
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [carpedm20/awesome-hacking](https://github.com/carpedm20/awesome-hacking) - A curated list of awesome Hacking tutorials, tools and resources
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
@@ -73,6 +78,7 @@
 
 ## awesome-list 
 
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
@@ -92,6 +98,14 @@
 
 - [Ephenia/Pokeclicker-Scripts](https://github.com/Ephenia/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
 
+## compiler 
+
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
+## cpp 
+
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
 ## data-analysis 
 
 - [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - In this project, I have utilized survival analysis models to see how the likelihood of the customer churn changes over time and to calculate customer LTV. I have also implemented the Random Forest mod
@@ -104,6 +118,10 @@
 ## deep-learning 
 
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+
+## django 
+
+- [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 
 ## education 
 
@@ -155,6 +173,10 @@
 
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool written in Python.
 
+## language 
+
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
 ## languages 
 
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
@@ -195,6 +217,7 @@
 
 ## others 
 
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
