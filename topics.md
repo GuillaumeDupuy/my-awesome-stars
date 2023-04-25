@@ -41,6 +41,7 @@
 - [open-source](#open-source)
 - [opencv](#opencv)
 - [others](#others)
+- [penetration-testing](#penetration-testing)
 - [python](#python)
 - [python3](#python3)
 - [reverse-engineering](#reverse-engineering)
@@ -232,6 +233,12 @@
 - [israel-dryer/Indeed-Job-Scraper](https://github.com/israel-dryer/Indeed-Job-Scraper) - A web scraper to extract job postings from www.indeed.com
 - [Llelepipede/projet_C](https://github.com/Llelepipede/projet_C) - 
 - [Gonzal-M/ExamenFrameworkPHP](https://github.com/Gonzal-M/ExamenFrameworkPHP) - Examen Framework PHP - Gonzalez Marie & Dupuy Guillaume - B2A Informatique
+
+## penetration-testing 
+
+- [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
+- [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 
 ## python 
 
