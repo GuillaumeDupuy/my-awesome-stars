@@ -36,6 +36,7 @@
 
 ## Go 
 
+- [Eclalang/Ecla](https://github.com/Eclalang/Ecla) - Ecla is a programming language that is designed to be easy to learn and use. It is a general purpose language that can be used for many different things.
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 
 ## HTML 
