@@ -225,7 +225,7 @@
 
 ## others 
 
-- [Eclalang/LearnEcla](https://github.com/Eclalang/LearnEcla) - 
+- [Eclalang/LearnEcla](https://github.com/Eclalang/LearnEcla) - the repo is a guide to getting started with ecla
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
