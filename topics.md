@@ -112,11 +112,11 @@
 ## data-analysis 
 
 - [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - In this project, I have utilized survival analysis models to see how the likelihood of the customer churn changes over time and to calculate customer LTV. I have also implemented the Random Forest mod
-- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool.
+- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 
 ## data-science 
 
-- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool.
+- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 
 ## deep-learning 
 
@@ -176,7 +176,7 @@
 
 ## json 
 
-- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool.
+- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 
 ## language 
 
@@ -258,7 +258,7 @@
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [giuseppegambino/Scraping-TripAdvisor-with-Python-2020](https://github.com/giuseppegambino/Scraping-TripAdvisor-with-Python-2020) - Python implementation of web scraping of TripAdvisor with Selenium in a new 2019 website
-- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool.
+- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 ## python3 
@@ -274,7 +274,7 @@
 ## rust 
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool.
+- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 
 ## security 
 
