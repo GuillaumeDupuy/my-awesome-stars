@@ -93,7 +93,7 @@
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [giuseppegambino/Scraping-TripAdvisor-with-Python-2020](https://github.com/giuseppegambino/Scraping-TripAdvisor-with-Python-2020) - Python implementation of web scraping of TripAdvisor with Selenium in a new 2019 website
-- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping command-line tool.
+- [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
