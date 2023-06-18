@@ -238,7 +238,7 @@
 - [Jefferson-Henrique/GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) - A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
 - [agrawal-rohit/twitter-sentiment-analysis-web-app](https://github.com/agrawal-rohit/twitter-sentiment-analysis-web-app) - Sentiment analysis dashboard for Twitter hashtags
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [MarcBresson/Stock-Market-Anywhere](https://github.com/MarcBresson/Stock-Market-Anywhere) - Personnal project of a web app that reproduce the stock market on anything, with a price variation depending on the sale volume. This web app is entirely local, and requires no installation.
+- [MarcBresson/Stock-Market-Anywhere](https://github.com/MarcBresson/Stock-Market-Anywhere) - Personnal project of a web app that reproduce the stock market on anything, with a price variation depending on the sale volume. keywords: WallStreetBar, Stock on drinks, bourse bières, bar à bourse
 - [israel-dryer/Indeed-Job-Scraper](https://github.com/israel-dryer/Indeed-Job-Scraper) - A web scraper to extract job postings from www.indeed.com
 - [Llelepipede/projet_C](https://github.com/Llelepipede/projet_C) - 
 - [Gonzal-M/ExamenFrameworkPHP](https://github.com/Gonzal-M/ExamenFrameworkPHP) - Examen Framework PHP - Gonzalez Marie & Dupuy Guillaume - B2A Informatique
