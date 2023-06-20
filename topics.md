@@ -21,6 +21,7 @@
 - [data-science](#data-science)
 - [deep-learning](#deep-learning)
 - [django](#django)
+- [documentation](#documentation)
 - [education](#education)
 - [github](#github)
 - [github-api](#github-api)
@@ -125,6 +126,10 @@
 ## django 
 
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+
+## documentation 
+
+- [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 
 ## education 
 
