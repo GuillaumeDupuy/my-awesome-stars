@@ -57,6 +57,7 @@
 
 ## ai 
 
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## android 
@@ -129,6 +130,7 @@
 
 ## documentation 
 
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 
 ## education 
@@ -210,6 +212,7 @@
 
 ## markdown 
 
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - Badges for your personal developer branding, profile, and projects.
 
@@ -231,7 +234,6 @@
 
 ## others 
 
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Generate beautiful README files from the terminal. Powered by OpenAI's GPT language model APIs 💫
 - [Eclalang/LearnEcla](https://github.com/Eclalang/LearnEcla) - the repo is a guide to getting started with ecla
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
@@ -257,6 +259,7 @@
 
 ## python 
 
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🚀 Automated README generation from the terminal, powered by GPT 🪐
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
 - [satwikkansal/python_blockchain_app](https://github.com/satwikkansal/python_blockchain_app) - A fully functional blockchain application implemented in Python from scratch (with tutorial).
