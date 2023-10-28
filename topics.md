@@ -16,6 +16,7 @@
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
+- [computer-science](#computer-science)
 - [cpp](#cpp)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -107,6 +108,10 @@
 ## compiler 
 
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
+
+## computer-science 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## cpp 
 
@@ -235,7 +240,6 @@
 ## others 
 
 - [Eclalang/LearnEcla](https://github.com/Eclalang/LearnEcla) - the repo is a guide to getting started with ecla
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
