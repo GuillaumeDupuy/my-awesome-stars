@@ -59,7 +59,7 @@
 - [krishnaik06/AQI-Project](https://github.com/krishnaik06/AQI-Project) - 
 - [giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019](https://github.com/giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019) - Python implementation of web scraping of full tweets from Tweet
 - [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - In this project, I have utilized survival analysis models to see how the likelihood of the customer churn changes over time and to calculate customer LTV. I have also implemented the Random Forest mod
-- [agrawal-rohit/twitter-sentiment-analysis-web-app](https://github.com/agrawal-rohit/twitter-sentiment-analysis-web-app) - Sentiment analysis dashboard for Twitter hashtags
+- [agrawal-rohit/tweet-sense](https://github.com/agrawal-rohit/tweet-sense) - Sentiment analysis dashboard for Twitter hashtags
 - [israel-dryer/Indeed-Job-Scraper](https://github.com/israel-dryer/Indeed-Job-Scraper) - A web scraper to extract job postings from www.indeed.com
 
 ## Markdown 
