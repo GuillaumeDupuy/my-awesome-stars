@@ -73,6 +73,7 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
 ## PHP 
 
@@ -111,7 +112,6 @@
 ## Shell 
 
 - [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 
 ## TypeScript 
 
