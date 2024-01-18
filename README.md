@@ -44,6 +44,7 @@
 
 ## JavaScript 
 
+- [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [sasadjolic/dom-terminal](https://github.com/sasadjolic/dom-terminal) - Command-line terminal that runs in a web browser
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
@@ -56,6 +57,7 @@
 
 ## Jupyter Notebook 
 
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [krishnaik06/AQI-Project](https://github.com/krishnaik06/AQI-Project) - 
 - [giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019](https://github.com/giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019) - Python implementation of web scraping of full tweets from Tweet
 - [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - In this project, I have utilized survival analysis models to see how the likelihood of the customer churn changes over time and to calculate customer LTV. I have also implemented the Random Forest mod
