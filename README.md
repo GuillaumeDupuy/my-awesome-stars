@@ -85,7 +85,7 @@
 ## Python 
 
 - [chatgpt/chart](https://github.com/chatgpt/chart) - ChartGPT is a lightweight, handy package to plot your pandas dataframe using natural language queries.
-- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by large language model APIs
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 🎈 Automated README file generator, powered by GPT language model APIs
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
