@@ -84,6 +84,7 @@
 
 ## Python 
 
+- [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [chatgpt/chart](https://github.com/chatgpt/chart) - ChartGPT is a lightweight, handy package to plot your pandas dataframe using natural language queries.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
