@@ -87,7 +87,7 @@
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [chatgpt/chart](https://github.com/chatgpt/chart) - ChartGPT is a lightweight, handy package to plot your pandas dataframe using natural language queries.
 - [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - 👾 Automated README file generator
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
