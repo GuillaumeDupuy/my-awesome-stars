@@ -25,6 +25,7 @@
 - [django](#django)
 - [documentation](#documentation)
 - [education](#education)
+- [firefox](#firefox)
 - [git](#git)
 - [github](#github)
 - [github-api](#github-api)
@@ -78,6 +79,7 @@
 
 ## automation 
 
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## awesome 
@@ -152,6 +154,10 @@
 
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
+## firefox 
+
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+
 ## git 
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - Auto-generate impressive commits with AI in 1 second 🤯🔫
@@ -169,11 +175,13 @@
 
 ## go 
 
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [Eclalang/Ecla](https://github.com/Eclalang/Ecla) - Ecla is a programming language that is designed to be easy to learn and use. It is a general purpose language that can be used for many different things.
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 
 ## golang 
 
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [Eclalang/Ecla](https://github.com/Eclalang/Ecla) - Ecla is a programming language that is designed to be easy to learn and use. It is a general purpose language that can be used for many different things.
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 
@@ -187,6 +195,7 @@
 
 ## hacktoberfest 
 
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
 - [disposable-email-domains/disposable-email-domains](https://github.com/disposable-email-domains/disposable-email-domains) - a list of disposable and temporary email address domains
@@ -222,6 +231,7 @@
 
 ## machine-learning 
 
+- [LdDl/cnns](https://github.com/LdDl/cnns) - Convolutional Neural Networks in Go
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
 - [abdulfatir/twitter-sentiment-analysis](https://github.com/abdulfatir/twitter-sentiment-analysis) - Sentiment analysis on tweets using Naive Bayes, SVM, CNN, LSTM, etc.
 
@@ -253,6 +263,8 @@
 
 ## others 
 
+- [armhold/rnn](https://github.com/armhold/rnn) - Recurrent Neural Network in Go
+- [xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
 - [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
 - [Eclalang/LearnEcla](https://github.com/Eclalang/LearnEcla) - the repo is a guide to getting started with ecla
