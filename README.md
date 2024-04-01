@@ -31,6 +31,10 @@
 
 ## Go 
 
+- [armhold/rnn](https://github.com/armhold/rnn) - Recurrent Neural Network in Go
+- [LdDl/cnns](https://github.com/LdDl/cnns) - Convolutional Neural Networks in Go
+- [xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [Eclalang/Ecla](https://github.com/Eclalang/Ecla) - Ecla is a programming language that is designed to be easy to learn and use. It is a general purpose language that can be used for many different things.
 - [irevenko/what-anime-cli](https://github.com/irevenko/what-anime-cli) - ❓🖼 Find the anime scene by image using your terminal
 
