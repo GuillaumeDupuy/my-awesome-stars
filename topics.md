@@ -268,6 +268,7 @@
 
 ## others 
 
+- [MikeCodesDotNET/ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges) - Some badges I created for my GitHub profile readme.
 - [armhold/rnn](https://github.com/armhold/rnn) - Recurrent Neural Network in Go
 - [xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
