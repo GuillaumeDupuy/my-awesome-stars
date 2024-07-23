@@ -277,7 +277,7 @@
 - [armhold/rnn](https://github.com/armhold/rnn) - Recurrent Neural Network in Go
 - [xlvector/hector](https://github.com/xlvector/hector) - Golang machine learning lib
 - [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM) - 
-- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker
+- [TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker) - PhotoMaker [CVPR 2024]
 - [Eclalang/LearnEcla](https://github.com/Eclalang/LearnEcla) - the repo is a guide to getting started with ecla
 - [pentestmonkey/php-reverse-shell](https://github.com/pentestmonkey/php-reverse-shell) - 
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
