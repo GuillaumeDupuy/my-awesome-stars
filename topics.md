@@ -49,6 +49,7 @@
 - [music](#music)
 - [neural-network](#neural-network)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
@@ -281,6 +282,10 @@
 ## open-source 
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+
+## openai 
+
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## opencv 
 
