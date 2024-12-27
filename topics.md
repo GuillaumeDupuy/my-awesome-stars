@@ -60,6 +60,7 @@
 - [reverse-engineering](#reverse-engineering)
 - [rust](#rust)
 - [security](#security)
+- [security-tools](#security-tools)
 - [serverless](#serverless)
 - [software](#software)
 - [statistics](#statistics)
@@ -364,6 +365,10 @@
 - [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [HashPals/Name-That-Hash](https://github.com/HashPals/Name-That-Hash) - 🔗  Don't know what type of hash it is? Name That Hash will name that hash type! 🤖 Identify MD5, SHA256 and 300+ other hashes ☄ Comes with a neat web app 🔥
+
+## security-tools 
+
+- [jekil/awesome-hacking](https://github.com/jekil/awesome-hacking) - Awesome hacking is an awesome collection of hacking tools.
 
 ## serverless 
 
