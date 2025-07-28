@@ -24,6 +24,7 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [deep-learning](#deep-learning)
+- [developer-tools](#developer-tools)
 - [development](#development)
 - [django](#django)
 - [documentation](#documentation)
@@ -160,6 +161,10 @@
 - [zyddnys/manga-image-translator](https://github.com/zyddnys/manga-image-translator) - Translate manga/image 一键翻译各类图片内文字 https://cotrans.touhou.ai/
 - [dmMaze/BallonsTranslator](https://github.com/dmMaze/BallonsTranslator) - 深度学习辅助漫画翻译工具, 支持一键机翻和简单的图像/文本编辑 | Yet another computer-aided comic/manga translation tool powered by deeplearning
 - [ujjwalkarn/Machine-Learning-Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials) - machine learning and deep learning tutorials, articles and other resources
+
+## developer-tools 
+
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 
 ## development 
 
