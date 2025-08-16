@@ -52,7 +52,6 @@
 - [neural-network](#neural-network)
 - [open-source](#open-source)
 - [openai](#openai)
-- [opencv](#opencv)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
 - [productivity](#productivity)
@@ -299,10 +298,6 @@
 
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
-## opencv 
-
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
-
 ## others 
 
 - [deepseek-ai/DeepSeek-V3](https://github.com/deepseek-ai/DeepSeek-V3) - 
@@ -321,6 +316,7 @@
 - [krishnaik06/AQI-Project](https://github.com/krishnaik06/AQI-Project) - 
 - [giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019](https://github.com/giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019) - Python implementation of web scraping of full tweets from Tweet
 - [Jefferson-Henrique/GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) - A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
 - [agrawal-rohit/tweet-sense](https://github.com/agrawal-rohit/tweet-sense) - Sentiment analysis dashboard for Twitter hashtags
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [MarcBresson/Stock-Market-Anywhere](https://github.com/MarcBresson/Stock-Market-Anywhere) - Personnal project of a web app that reproduce the stock market on anything, with a price variation depending on the sale volume. keywords: WallStreetBar, Stock on drinks, bourse bières, bar à bourse
