@@ -55,6 +55,7 @@
 - [others](#others)
 - [penetration-testing](#penetration-testing)
 - [productivity](#productivity)
+- [programming-language](#programming-language)
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
@@ -333,6 +334,10 @@
 ## productivity 
 
 - [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works best with Claude or GPT, supports local models too
+
+## programming-language 
+
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 
 ## python 
 
