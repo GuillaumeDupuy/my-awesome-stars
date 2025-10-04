@@ -68,6 +68,7 @@
 - [software](#software)
 - [statistics](#statistics)
 - [terminal](#terminal)
+- [visualization](#visualization)
 - [windows](#windows)
 
 ## ai 
@@ -403,6 +404,10 @@
 ## terminal 
 
 - [sasadjolic/dom-terminal](https://github.com/sasadjolic/dom-terminal) - Command-line terminal that runs in a web browser
+
+## visualization 
+
+- [Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer) - A sorting visualizer made in python with the help of DearPyGui
 
 ## windows 
 
