@@ -333,7 +333,7 @@
 - [krishnaik06/AQI-Project](https://github.com/krishnaik06/AQI-Project) - 
 - [giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019](https://github.com/giuseppegambino/Scraping-tweets-from-Twitter-with-Python-2019) - Python implementation of web scraping of full tweets from Tweet
 - [Jefferson-Henrique/GetOldTweets-python](https://github.com/Jefferson-Henrique/GetOldTweets-python) - A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.
-- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Anime Scene Search by Image
+- [soruly/trace.moe](https://github.com/soruly/trace.moe) - Trace back an anime scene with a screenshot
 - [agrawal-rohit/tweet-sense](https://github.com/agrawal-rohit/tweet-sense) - Sentiment analysis dashboard for Twitter hashtags
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [MarcBresson/Stock-Market-Anywhere](https://github.com/MarcBresson/Stock-Market-Anywhere) - Personnal project of a web app that reproduce the stock market on anything, with a price variation depending on the sale volume. keywords: WallStreetBar, Stock on drinks, bourse bières, bar à bourse
