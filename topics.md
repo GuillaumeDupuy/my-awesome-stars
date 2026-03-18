@@ -369,7 +369,7 @@
 
 ## python3 
 
-- [Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer) - A sorting visualizer made in python with the help of DearPyGui
+- [spacegpu/Algorithm-visualizer](https://github.com/spacegpu/Algorithm-visualizer) - A sorting visualizer made in python with the help of DearPyGui
 
 ## pytorch 
 
@@ -420,7 +420,7 @@
 
 ## visualization 
 
-- [Anurag-gg/Algorithm-visualizer](https://github.com/Anurag-gg/Algorithm-visualizer) - A sorting visualizer made in python with the help of DearPyGui
+- [spacegpu/Algorithm-visualizer](https://github.com/spacegpu/Algorithm-visualizer) - A sorting visualizer made in python with the help of DearPyGui
 
 ## windows 
 
