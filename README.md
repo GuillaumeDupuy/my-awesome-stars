@@ -43,7 +43,6 @@
 
 ## JavaScript 
 
-- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares
 - [sasadjolic/dom-terminal](https://github.com/sasadjolic/dom-terminal) - Command-line terminal that runs in a web browser
 - [CTF-Cafe/CTF_Cafe_platform](https://github.com/CTF-Cafe/CTF_Cafe_platform) - A full CTF Website Server & Frontend | Extremely customizable
@@ -122,6 +121,7 @@
 
 ## TypeScript 
 
+- [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) - top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
