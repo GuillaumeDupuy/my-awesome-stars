@@ -19,6 +19,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [TypeScript](#typescript)
+- [Zig](#zig)
 
 ## C 
 
@@ -52,7 +53,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 - [MarcBresson/Stock-Market-Anywhere](https://github.com/MarcBresson/Stock-Market-Anywhere) - Personnal project of a web app that reproduce the stock market on anything, with a price variation depending on the sale volume. keywords: WallStreetBar, Stock on drinks, bourse bières, bar à bourse
-- [Ephenia/Pokeclicker-Scripts](https://github.com/Ephenia/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
+- [ephymew/Pokeclicker-Scripts](https://github.com/ephymew/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
 
 ## Jupyter Notebook 
 
@@ -105,7 +106,6 @@
 - [PaulMcInnis/JobFunnel](https://github.com/PaulMcInnis/JobFunnel) - Scrape job websites into a single spreadsheet with no duplicates.
 - [giuseppegambino/Scraping-TripAdvisor-with-Python-2020](https://github.com/giuseppegambino/Scraping-TripAdvisor-with-Python-2020) - Python implementation of web scraping of TripAdvisor with Selenium in a new 2019 website
 - [JosephLai241/URS](https://github.com/JosephLai241/URS) - Universal Reddit Scraper - A comprehensive Reddit scraping/archival command-line tool.
-- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## Rust 
@@ -125,6 +125,10 @@
 - [pujux/badge-it](https://github.com/pujux/badge-it) - An API serving useful badges for your GitHub Profile README 🚀🎉 Formerly known as git-badges.
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
+
+## Zig 
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 
 ## License
