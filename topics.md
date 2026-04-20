@@ -137,7 +137,7 @@
 
 ## code 
 
-- [Ephenia/Pokeclicker-Scripts](https://github.com/Ephenia/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
+- [ephymew/Pokeclicker-Scripts](https://github.com/ephymew/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
 
 ## command-line 
 
@@ -256,7 +256,7 @@
 
 - [sasadjolic/dom-terminal](https://github.com/sasadjolic/dom-terminal) - Command-line terminal that runs in a web browser
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [Ephenia/Pokeclicker-Scripts](https://github.com/Ephenia/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
+- [ephymew/Pokeclicker-Scripts](https://github.com/ephymew/Pokeclicker-Scripts) - Various scripts & enhancements for the game Pokéclicker.
 
 ## json 
 
