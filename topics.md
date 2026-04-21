@@ -73,6 +73,7 @@
 - [terminal](#terminal)
 - [visualization](#visualization)
 - [windows](#windows)
+- [zig](#zig)
 
 ## ai 
 
@@ -426,6 +427,10 @@
 
 - [mentebinaria/retoolkit](https://github.com/mentebinaria/retoolkit) - Reverse Engineer's Toolkit
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
+
+## zig 
+
+- [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 
 
 ## License
