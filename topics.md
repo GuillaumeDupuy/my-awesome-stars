@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agents](#agents)
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [android](#android)
@@ -74,6 +75,10 @@
 - [visualization](#visualization)
 - [windows](#windows)
 - [zig](#zig)
+
+## agents 
+
+- [eli64s/readme-ai](https://github.com/eli64s/readme-ai) - README file generator, powered by AI.
 
 ## ai 
 
