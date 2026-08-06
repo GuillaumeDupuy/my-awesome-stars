@@ -12,12 +12,12 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Markdown](#markdown)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
 - [SCSS](#scss)
-- [Shell](#shell)
 - [TypeScript](#typescript)
 - [Zig](#zig)
 
@@ -68,6 +68,10 @@
 
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges.
 
+## Nix 
+
+- [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
+
 ## Others 
 
 - [MikeCodesDotNET/ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges) - Some badges I created for my GitHub profile readme.
@@ -115,10 +119,6 @@
 ## SCSS 
 
 - [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
-
-## Shell 
-
-- [zardus/ctf-tools](https://github.com/zardus/ctf-tools) - Some setup scripts for security research tools.
 
 ## TypeScript 
 
