@@ -11,6 +11,7 @@
 - [Inno Setup](#inno-setup)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Markdown](#markdown)
 - [Nix](#nix)
 - [Others](#others)
@@ -63,6 +64,10 @@
 - [archd3sai/Customer-Survival-Analysis-and-Churn-Prediction](https://github.com/archd3sai/Customer-Survival-Analysis-and-Churn-Prediction) - In this project, I have utilized survival analysis models to see how the likelihood of the customer churn changes over time and to calculate customer LTV. I have also implemented the Random Forest mod
 - [agrawal-rohit/tweet-sense](https://github.com/agrawal-rohit/tweet-sense) - Sentiment analysis dashboard for Twitter hashtags
 - [israel-dryer/Indeed-Job-Scraper](https://github.com/israel-dryer/Indeed-Job-Scraper) - A web scraper to extract job postings from www.indeed.com
+
+## Kotlin 
+
+- [mahlernim/google-timeline-visualizer](https://github.com/mahlernim/google-timeline-visualizer) - Visualize your year in travel using your Google Location History (Timeline) data
 
 ## Markdown 
 
