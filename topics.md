@@ -70,6 +70,7 @@
 - [security](#security)
 - [security-tools](#security-tools)
 - [serverless](#serverless)
+- [skills](#skills)
 - [software](#software)
 - [statistics](#statistics)
 - [terminal](#terminal)
@@ -417,6 +418,10 @@
 ## serverless 
 
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+## skills 
+
+- [Jurredr/github-widgetbox](https://github.com/Jurredr/github-widgetbox) - [✨] Beautiful, dynamic widgets for GitHub Readme pages. (Statistics, Skills, etc.)
 
 ## software 
 
